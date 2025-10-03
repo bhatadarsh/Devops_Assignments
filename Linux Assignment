@@ -24,6 +24,3 @@ Create a file named secure.txt and change its permissions to read-only for every
 
 7. Working with Environment Variables
 Use export to set a new environment variable called MY_VAR with the value "Hello, Linux!".
-
-
-Submission Guidelines -: Attach Screenshots or command along with explanation and submit in doc(google doc or microsoft doc) format also attach github repo link
