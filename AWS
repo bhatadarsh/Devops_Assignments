@@ -1,0 +1,9 @@
+Note-: If you are new to AWS, you can create an AWS account and take advantage of the 6months free tier. 
+This free tier provides access to a limited set of resources and services at no cost. 
+For more details, you can refer to the official AWS Free Tier page at https://aws.amazon.com/free.
+
+
+
+1. Deploy Your flask backend and express frontend in amazon single ec2 instance.
+2. Deploy Your flask backend and express frontend in separate ec2 instances.
+3. Deploy Your flask backend and express frontend Docker Container using aws ecr, ecs and vpc services
