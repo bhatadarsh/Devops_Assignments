@@ -1,3 +1,47 @@
+# 1. Create and go into project folder
+cd Desktop
+mkdir myproject
+cd myproject
+
+# 2. Initialize Git
+git init
+
+# 3. Create a file (optional)
+echo "# My Project" > README.md
+
+# 4. Check status
+git status
+
+# 5. Add all files
+git add .
+
+# 6. Commit changes
+git commit -m "Initial commit"
+
+# 7. Connect to GitHub repo (replace URL with your repo’s)
+git remote add origin https://github.com/yourusername/myproject.git
+
+# 8. Verify remote
+git remote -v
+
+# 9. Push to GitHub
+git push -u origin main
+# or use 'master' if your branch is named master
+
+
+
+#for updating.
+git add .
+git commit -m "Updated files"
+git push
+
+
+
+
+
+
+
+
 1. Create a new GitHub repository.
 Clone the repository to your local machine using SSH (generate an SSH key if needed, add the public key to your GitHub account).
 Create a new branch named after your username (e.g., Tutedude).
